@@ -1,0 +1,6 @@
+name: DevOpsAssignment
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: this project combines docker,kubernetes and pulumi to create containerized nginx
