@@ -37,16 +37,6 @@ Follow these steps to set up and deploy the project:
 
 7. **Testing**: Verify that the NGINX server is up and running. You can access the webpage using port forwarding.
 
-## Project Structure
-
-```
-DevOpsAssignment/
-|-- Dockerfile
-|-- pulumi/
-| |-- main.py
-|-- html/
-| |-- index.html
-```
 
 
 
