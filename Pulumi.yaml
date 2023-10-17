@@ -1,0 +1,6 @@
+name: prg
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: pulumi project for deploying Nginx server with HTML content to k8s
